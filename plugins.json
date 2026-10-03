@@ -1,0 +1,22 @@
+[
+  {
+    "name": "WiojeltSpor",
+    "internalName": "WiojeltSpor",
+    "version": 1,
+    "description": "TV kumandası uyumlu, çok kaynaklı canlı TV ve spor yayını. Renk grupları ve dinamik kaynaklar.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WiojeltSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/builds/WiojeltSpor.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 657197,
+    "fileHash": "sha256-dc50f5bdd2d2519bbbe84dd2013372446ab639f4d599102ac38db0b73864ce27",
+    "apiVersion": 1
+  }
+]
