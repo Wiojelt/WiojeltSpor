@@ -2,7 +2,7 @@
   {
     "name": "WiojeltSpor",
     "internalName": "WiojeltSpor",
-    "version": 6,
+    "version": 7,
     "description": "TV kumandası uyumlu, çok kaynaklı canlı TV ve spor yayını. Renk grupları ve dinamik kaynaklar.",
     "authors": [
       "Wiojelt"
@@ -16,7 +16,8 @@
     "language": "tr",
     "status": 3,
     "fileSize": 662793,
-    "fileHash": "sha256-bd3d958a2936666acff2310cc76b8731a24c873696fb7781fa3856a481d18547",
-    "apiVersion": 1
+    "fileHash": "524c4affd3efa011da8c6194daca2b7bda250623591e335ab3a2ccaac027580b",
+    "apiVersion": 1,
+    "filesize": 665380
   }
 ]
