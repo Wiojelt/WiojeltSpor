@@ -15,9 +15,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 662793,
-    "fileHash": "4b276f39171bcf581de58713f928d8307a2d8b5843c2eee933d06d40f4c23fed",
-    "apiVersion": 1,
-    "filesize": 665213
+    "fileSize": 665213,
+    "fileHash": "sha256-4b276f39171bcf581de58713f928d8307a2d8b5843c2eee933d06d40f4c23fed",
+    "apiVersion": 1
   }
 ]
