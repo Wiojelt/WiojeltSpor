@@ -2,8 +2,8 @@
   {
     "name": "WiojeltSpor",
     "internalName": "WiojeltSpor",
-    "version": 9,
-    "description": "TV kumandası uyumlu, çok kaynaklı canlı TV ve spor yayını. Renk grupları ve dinamik kaynaklar.",
+    "version": 10,
+    "description": "Devredışı Bırakıldı (Bakımda)",
     "authors": [
       "Wiojelt"
     ],
@@ -14,9 +14,9 @@
       "Live"
     ],
     "language": "tr",
-    "status": 3,
-    "fileSize": 753008,
-    "fileHash": "sha256-bd20492756fc9023e3c3ccdce2ba33f8d77df9e5f23317fd07b11bdffbc365e7",
+    "status": 0,
+    "fileSize": 759191,
+    "fileHash": "sha256-11ef7ebe2b0f09f0c81b76465ebb16482c9355c5c48a31be9acd0bb9514137a0",
     "apiVersion": 1
   }
 ]
